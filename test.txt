@@ -1,0 +1,6 @@
+djangorestframework
+Pillow
+python-decouple
+django
+psycopg2-binary
+python-slugify
